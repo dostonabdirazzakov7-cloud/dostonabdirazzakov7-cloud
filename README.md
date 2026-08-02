@@ -27,18 +27,17 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dostonabdirazzakov7-cloud&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=dostonabdirazzakov7-cloud&theme=tokyonight" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dostonabdirazzakov7-cloud&layout=compact&theme=tokyonight" alt="Top Langs" width="60%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dostonabdirazzakov7-cloud&theme=tokyonight&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dostonabdirazzakov7-cloud&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 <p align="center">
   <i>⭐ Thanks for visiting my profile!</i>
