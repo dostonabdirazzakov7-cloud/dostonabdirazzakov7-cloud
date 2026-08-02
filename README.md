@@ -31,7 +31,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dostonabdirazzakov7-cloud&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dostonabdirazzakov7-cloud&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=dostonabdirazzakov7-cloud&theme=tokyonight" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
