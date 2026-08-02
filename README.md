@@ -1,23 +1,22 @@
-<h1 align="center">Assalomu alaykum 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Django+%2B+React+Developer;AI%2FML+bilan+qiziqaman;O'zbekiston+uchun+loyihalar+quraman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Django+%2B+React+Developer;Interested+in+AI%2FML;Building+projects+for+Uzbekistan" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 Men haqimda
+### 🚀 About Me
 
-- 💻 Full-stack dasturchiman — **frontend, backend, mobil va AI/ML** yo'nalishlarida ishlayman
-- 🏗️ Hozirda **Django REST API + React** arxitekturasida loyihalar quryapman
-- 🎓 Faol loyiham: rolga asoslangan kabinetlar (Direktor/Admin/Buxgalter/Talaba) va to'lov tizimiga ega o'quv markazi platformasi
-- 🤖 AI-asosidagi mahsulotlar va startap g'oyalari bilan qiziqaman
-- 🌱 Yangi texnologiyalarni o'rganish va amaliyotga tatbiq qilishni yaxshi ko'raman
-- 📫 Bog'lanish: *(shu yerga Telegram/LinkedIn linkingizni qo'shing)*
+- 💻 I'm a full-stack developer working across **frontend, backend, mobile, and AI/ML**
+- 🏗️ Currently building projects with a **Django REST API + React** architecture
+- 🤖 Interested in AI-powered products and startup ideas
+- 🌱 I enjoy learning new technologies and applying them in real projects
+- 📫 Reach me: *(add your Telegram/LinkedIn link here)*
 
 ---
 
-### 🛠️ Texnologiyalar
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -32,19 +31,19 @@
 
 ---
 
-### 📊 GitHub statistikasi
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SIZNING_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIZNING_USERNAME&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIZNING_USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" width="60%"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>⭐ Loyihalarimga tashrif buyurganingiz uchun rahmat!</i>
+  <i>⭐ Thanks for visiting my profile!</i>
 </p>
