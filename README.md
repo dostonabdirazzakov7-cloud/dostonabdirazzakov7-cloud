@@ -11,6 +11,7 @@
 
 - 💻 I'm a full-stack developer working across **frontend, backend, mobile, and AI/ML**
 - 🏗️ Currently building projects with a **Django REST API + React** architecture
+- 🎓 Active project: a training center platform with role-based dashboards (Director/Admin/Accountant/Student) and a payment system
 - 🤖 Interested in AI-powered products and startup ideas
 - 🌱 I enjoy learning new technologies and applying them in real projects
 - 📫 Reach me: *(add your Telegram/LinkedIn link here)*
